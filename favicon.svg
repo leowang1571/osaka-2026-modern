@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
-  <rect width="1024" height="1024" fill="#173c31"/>
-  <circle cx="790" cy="238" r="158" fill="#ef5b35"/>
-  <path d="M122 122H902V902H122Z" fill="none" stroke="#f3eddf" stroke-width="24"/>
-  <path d="M122 692H902" stroke="#f3eddf" stroke-width="16" opacity=".92"/>
-  <text x="512" y="440" fill="#f3eddf" font-family="Georgia,'Times New Roman',serif" font-size="200" font-weight="700" text-anchor="middle" letter-spacing="12">OSA</text>
-  <text x="512" y="620" fill="#f3eddf" font-family="Georgia,'Times New Roman',serif" font-size="200" font-weight="700" text-anchor="middle" letter-spacing="16">KA</text>
-  <text x="512" y="827" fill="#f3eddf" font-family="Georgia,'Times New Roman',serif" font-size="86" font-weight="600" text-anchor="middle" letter-spacing="28">2026</text>
-</svg>

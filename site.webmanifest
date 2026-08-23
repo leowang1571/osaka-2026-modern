@@ -1,6 +1,6 @@
 {
-  "name": "大阪 2026｜现代版互动旅行攻略",
-  "short_name": "大阪 2026 新版",
+  "name": "大阪旅游手册",
+  "short_name": "大阪旅游手册",
   "description": "大阪、日本环球影城、神户、京都与关西机场五日互动旅行攻略",
   "start_url": "./",
   "display": "standalone",
